@@ -13,5 +13,4 @@ namespace ManagementEmployeeAPI.Models
     }
 }
 
-
-https://medium.com/c-sharp-progarmming/cqrs-pattern-using-mediatr-in-net-5-45a43b783db6
+// https://medium.com/c-sharp-progarmming/cqrs-pattern-using-mediatr-in-net-5-45a43b783db6
